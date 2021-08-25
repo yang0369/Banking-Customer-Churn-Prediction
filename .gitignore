@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+zhuanyezu/
+blog/
+artifacts/
+dask-worker-space/
+
+
 # C extensions
 *.so
 
