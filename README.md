@@ -1,13 +1,13 @@
-# Banking Customer Churn Prediction
+# Banking-Customer-Churn-Prediction
 
-Banking industry has high interest to know if a customer will continue to save or invest at their bank in the next quarter. By leveraging machine learning technology, this task can be considered as a classification problem.  
+Banking industry has high interest to know if a customer will continue to save or invest at their bank in the next quarter. By leveraging machine learning technology, this task can be done as a classification problem.  
 
-In this project, I have looked into lightGBM, an advanced tree-based algorithm for classification(or regression) task.
+In this project, I have looked into lightGBM, an advanced tree-based algorithm, for classification(or regression) task.
 
 # Project Shema
 
 ```
-📦banking_customer_prediction
+📦Banking Customer Churn Prediction
  ┣ 📂artifacts
  ┃ ┣ 📂model
  ┃ ┃ ┗ 📜lgb_rev7.pkl
@@ -60,6 +60,8 @@ In this project, I have looked into lightGBM, an advanced tree-based algorithm f
 ```
 
 # Quick tour
+
+to be continued....
 
 
 
